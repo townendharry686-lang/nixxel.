@@ -1,0 +1,8 @@
+{
+  "name": "nixxel-dashboard",
+  "version": "2.0.1",
+  "private": true,
+  "description": "NIXXEL gaming optimisation dashboard",
+  "scripts": { "start": "node bootstrap.js" },
+  "engines": { "node": ">=18" }
+}
